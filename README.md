@@ -13,11 +13,7 @@ The goal of this project is to use visualizations and probability distributions 
 2. The Carry Out and cheap restaurants wre the highest accepted coupons.
 2. The age groups most likely to accept coupons are between 20-35 years.
 
-<<<<<<< HEAD
 ## Findings for Bar Coupons
-=======
-# Findings for Bar Coupons
->>>>>>> 3768fcb (updated notebook with correct file)
 
 The following characteristics of passangers are most likely associtaed with accepting the bar coupon:
 
@@ -26,11 +22,7 @@ The following characteristics of passangers are most likely associtaed with acce
 3. Those who do drive alone and
 4. Those who are in occupations other than farming, fishing and forestery are more likely to accept the bar coupon
 
-<<<<<<< HEAD
 ## Findings for Coffee House Coupon
-=======
-# Findings for Coffee House Coupon
->>>>>>> 3768fcb (updated notebook with correct file)
 
 The following characteristics of passangers are most likely associtaed with accepting the Coffee House coupon:
 

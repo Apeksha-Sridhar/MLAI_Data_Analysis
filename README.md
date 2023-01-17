@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a Practical Assignment Module 5. Here I examine the characteristics of passangers that receive a coupon while driving. 
-Here is the link to the Jupyter notebook: https://github.com/Apeksha-Sridhar/MLAI_Module5/blob/main/Practical_Assignment_Mod5.ipynb
+Here is the link to the Jupyter notebook: 
 
 ## Goal
 The goal of this project is to use visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
